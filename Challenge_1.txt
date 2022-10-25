@@ -1,0 +1,50 @@
+Challenge 1
+
+    Given a list of numbers and a number k, 
+        return whether any two numbers from the list add up to k.
+
+
+map 
+iterate
+
+for 
+for
+
+for
+for
+
+
+for each item
+    iterate list
+    if item + list[item] = k
+        return Items at index1 & index2 = k
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
